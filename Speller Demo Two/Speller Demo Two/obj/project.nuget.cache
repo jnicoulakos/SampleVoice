@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ombnOMwYdIC/WWjGb9/KAVzpwlvA/ovvq6PBtD3EgrQI0dGeUClDXhn0HNUfsZu6nj/Wez1jRV1C6EVCJcYBpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\meowd\\OneDrive\\Speller\\repos\\Speller Demo Two\\Speller Demo Two\\Speller Demo Two.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\meowd\\.nuget\\packages\\system.speech\\6.0.0\\system.speech.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

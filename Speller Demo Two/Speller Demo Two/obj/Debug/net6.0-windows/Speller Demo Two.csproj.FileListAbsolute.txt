@@ -1,0 +1,41 @@
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\bin\Debug\net6.0-windows\Speller Demo Two.exe
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\bin\Debug\net6.0-windows\Speller Demo Two.deps.json
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\bin\Debug\net6.0-windows\Speller Demo Two.runtimeconfig.json
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\bin\Debug\net6.0-windows\Speller Demo Two.dll
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\bin\Debug\net6.0-windows\Speller Demo Two.pdb
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\bin\Debug\net6.0-windows\System.Speech.dll
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.csproj.AssemblyReference.cache
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller_Demo_Two.Form1.resources
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.csproj.GenerateResource.cache
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.AssemblyInfoInputs.cache
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.AssemblyInfo.cs
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.csproj.CoreCompileInputs.cache
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.csproj.CopyComplete
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.dll
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\refint\Speller Demo Two.dll
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.pdb
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.genruntimeconfig.cache
+C:\Users\meowd\source\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\ref\Speller Demo Two.dll
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\bin\Debug\net6.0-windows\Speller Demo Two.exe
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\bin\Debug\net6.0-windows\Speller Demo Two.deps.json
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\bin\Debug\net6.0-windows\Speller Demo Two.runtimeconfig.json
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\bin\Debug\net6.0-windows\Speller Demo Two.dll
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\bin\Debug\net6.0-windows\Speller Demo Two.pdb
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\bin\Debug\net6.0-windows\System.Speech.dll
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.csproj.AssemblyReference.cache
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller_Demo_Two.Form1.resources
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.csproj.GenerateResource.cache
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.AssemblyInfoInputs.cache
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.AssemblyInfo.cs
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.csproj.CoreCompileInputs.cache
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.csproj.CopyComplete
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.dll
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\refint\Speller Demo Two.dll
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.pdb
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\Speller Demo Two.genruntimeconfig.cache
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\obj\Debug\net6.0-windows\ref\Speller Demo Two.dll
+C:\Users\meowd\OneDrive\Speller\repos\Speller Demo Two\Speller Demo Two\bin\Debug\net6.0-windows\SpellList.xml
